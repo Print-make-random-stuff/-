@@ -1,0 +1,29 @@
+
+body{
+    background-color: #F2EECB;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.Count_up_container{
+    background-image: url("img/earth.jpg");
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.count_up{
+    font-family: 'Cascadia Code';
+    font-size: 90px;
+    color: white;
+	text-shadow: 2px 2px 5px black;
+}
